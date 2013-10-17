@@ -1,0 +1,1 @@
+cmd_/home/george/wldriver/wl.o := ld -m elf_i386  /home/george/wldriver/lib/wlc_hybrid.o_shipped -r -o /home/george/wldriver/wl.o /home/george/wldriver/src/shared/linux_osl.o /home/george/wldriver/src/wl/sys/wl_linux.o /home/george/wldriver/src/wl/sys/wl_iw.o /home/george/wldriver/src/wl/sys/wl_cfg80211.o 
